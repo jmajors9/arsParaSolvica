@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "6F30696BCF1F675C9FD4375FE463A03654165039",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "6F30696BCF1F675C9FD4375FE463A03654165039" : 9223372036854775807,
+    "21A3540D2E74DCE21884EB6B66384332C138EE92" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "FC71BDD9-3BAD-4882-8099-C6D3A5ECD782",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "6F30696BCF1F675C9FD4375FE463A03654165039" : "arsParaSolvica\/",
+    "21A3540D2E74DCE21884EB6B66384332C138EE92" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "arsParaSolvica",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "arsParaSolvica\/arsParaSolvica\/arsParaSolvica.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jmajors9\/my_really_cool_project.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "21A3540D2E74DCE21884EB6B66384332C138EE92"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jmajors9\/arsParaSolvica.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6F30696BCF1F675C9FD4375FE463A03654165039"
+    }
+  ]
+}
